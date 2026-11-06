@@ -1,0 +1,23 @@
+SÉCURITÉ DES E-MAILS ET HAMEÇONNAGE
+Altéa Services — Support IT — Référence IT-009
+
+L'hameçonnage (phishing) consiste à envoyer un faux e-mail pour obtenir un mot de passe, faire ouvrir une pièce jointe piégée ou faire réaliser un virement. C'est la première cause d'incident de sécurité dans l'entreprise.
+
+1. Les signes qui doivent alerter
+- un expéditeur inconnu, ou une adresse qui imite celle d'un collègue avec une faute ;
+- un ton urgent ou menaçant (« votre compte sera supprimé dans 24 h ») ;
+- une demande de mot de passe, de coordonnées bancaires ou de virement urgent ;
+- un lien dont l'adresse, visible en survolant la souris, ne correspond pas au site annoncé ;
+- une pièce jointe inattendue, notamment au format .zip, .exe ou un document demandant d'« activer les macros ».
+
+2. Que faire si je reçois un e-mail suspect ?
+Ne cliquez sur aucun lien et n'ouvrez aucune pièce jointe. Utilisez le bouton « Signaler un hameçonnage » dans la barre de la messagerie : l'e-mail est transmis à l'équipe sécurité puis supprimé de votre boîte. Ne le transférez pas à vos collègues.
+
+3. J'ai cliqué ou saisi mon mot de passe : que faire ?
+Pas de panique, mais agissez vite. Appelez immédiatement le support IT au poste 4444. Changez votre mot de passe depuis un autre appareil. Ne vous déconnectez pas du réseau sans l'avis du support : il peut avoir besoin d'analyser l'ordinateur.
+
+4. Demandes de virement
+Toute demande de virement inhabituelle reçue par e-mail, même venant apparemment de la direction, doit être confirmée par téléphone au numéro habituel de la personne, jamais au numéro indiqué dans l'e-mail.
+
+5. Sensibilisation
+Des campagnes de faux hameçonnage sont organisées plusieurs fois par an pour entraîner les salariés. Un module de formation de 20 minutes est obligatoire chaque année.

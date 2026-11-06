@@ -1,0 +1,24 @@
+CORPUS FICTIF ALTÉA SERVICES — 15 documents internes (8 PDF, 7 textes)
+Tous les noms, adresses, numéros et organismes sont fictifs (domaines en .example).
+
+RH       conges_absences.pdf, teletravail.pdf, notes_de_frais.pdf, mutuelle.pdf, formation.txt
+IT       charte_informatique.pdf, mot_de_passe.txt, vpn.txt, demande_materiel.txt, securite_emails.txt
+General  reglement_interieur.pdf, plan_acces.pdf, livret_accueil.pdf, horaires.txt, restauration.txt
+
+Particularités volontaires, utiles aux exercices :
+- les PDF ont un en-tête et un pied de page répétés et un numéro de page (étape 2, Q4) ;
+- plusieurs PDF contiennent un tableau, mal restitué par l'extraction texte ;
+- certaines informations se recoupent entre documents (télétravail, mutuelle, support IT),
+  ce qui permet d'observer des résultats de recherche proches.
+
+Réponses aux 10 questions d'évaluation du corrigé :
+- Télétravail par semaine : 2 jours maximum, jamais le mardi (teletravail.pdf)
+- Réinitialiser son mot de passe : lien « Mot de passe oublié ? » + code SMS (mot_de_passe.txt)
+- Poser un congé : MonEspace > Mes absences > Nouvelle demande (conges_absences.pdf)
+- Plafond repas : 20 € le midi, 30 € le soir, 50 € repas d'affaires (notes_de_frais.pdf)
+- Adhérer à la mutuelle : bulletin à rendre au RH sous 30 jours (mutuelle.pdf)
+- Problème de VPN : vérifier internet, l'heure, redémarrer, poste 4444 (vpn.txt)
+- Nouvel ordinateur : portail Support IT > Demande de matériel, 15 jours ouvrés (demande_materiel.txt)
+- E-mail suspect : bouton « Signaler un hameçonnage » (securite_emails.txt)
+- Ouverture du site de Lyon : 7 h 30 (horaires.txt)
+- Fumer dans les locaux : interdit, zones extérieures à plus de 10 m (reglement_interieur.pdf)

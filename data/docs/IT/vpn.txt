@@ -1,0 +1,20 @@
+CONNEXION AU VPN
+Altéa Services — Support IT — Référence IT-005
+
+Le VPN est obligatoire pour accéder aux applications internes (MonEspace, Frais+, espace partagé) en dehors des locaux, notamment en télétravail.
+
+1. Se connecter
+Ouvrez l'application AltéaConnect, installée sur tous les ordinateurs portables de l'entreprise. Cliquez sur « Se connecter », saisissez votre identifiant et votre mot de passe, puis validez la notification sur votre téléphone (authentification à deux facteurs). L'icône devient verte une fois la connexion établie.
+
+2. Je n'arrive pas à me connecter au VPN : que faire ?
+- Vérifiez d'abord que votre connexion internet fonctionne, en ouvrant un site public.
+- Vérifiez que l'heure de votre ordinateur est correcte : un décalage de plus de 5 minutes empêche l'authentification.
+- Si vous utilisez un réseau public (hôtel, gare), le VPN peut être bloqué : partagez plutôt la connexion de votre téléphone professionnel.
+- Redémarrez l'ordinateur, puis relancez AltéaConnect.
+- Si le message « Certificat expiré » s'affiche, votre ordinateur doit être reconnecté au réseau de l'entreprise : passez sur site ou appelez le support.
+
+3. Le VPN se coupe souvent
+Désactivez la mise en veille du Wi-Fi dans les paramètres d'économie d'énergie. Le VPN se déconnecte automatiquement après 10 heures de connexion continue : reconnectez-vous simplement.
+
+4. Contacter le support
+Si le problème persiste, appelez le support IT au poste 4444 ou au 01 00 00 44 44, ou ouvrez un ticket sur le portail Support IT depuis votre téléphone. Indiquez le message d'erreur exact et une capture d'écran.

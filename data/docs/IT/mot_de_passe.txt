@@ -1,0 +1,22 @@
+MOT DE PASSE OUBLIÉ OU EXPIRÉ
+Altéa Services — Support IT — Référence IT-003
+
+Vous avez oublié votre mot de passe, ou votre compte est bloqué ? Voici la marche à suivre.
+
+1. Réinitialiser soi-même son mot de passe
+Rendez-vous sur la page de réinitialisation, accessible depuis l'écran de connexion de votre ordinateur (lien « Mot de passe oublié ? ») ou depuis votre téléphone sur le portail compte.altea-services.example.
+Saisissez votre identifiant (prénom.nom), puis validez le code reçu par SMS sur votre téléphone professionnel ou dans l'application d'authentification.
+Choisissez un nouveau mot de passe : au moins 12 caractères, avec une majuscule, un chiffre et un caractère spécial. Il ne doit pas reprendre l'un de vos 5 derniers mots de passe.
+
+2. Compte bloqué
+Après 5 essais erronés, le compte est bloqué pendant 15 minutes. Il se débloque ensuite automatiquement. Si le blocage persiste, appelez le support IT.
+
+3. Si la réinitialisation ne fonctionne pas
+Contactez le support IT au poste 4444 (ou au 01 00 00 44 44 depuis l'extérieur), du lundi au vendredi de 8 h à 18 h. Un technicien vérifiera votre identité en vous posant des questions, puis vous attribuera un mot de passe provisoire à changer immédiatement.
+
+4. À ne jamais faire
+Ne communiquez jamais votre mot de passe, ni par téléphone, ni par e-mail, même à quelqu'un qui se présente comme le support IT : le support ne le demande jamais.
+Ne notez pas votre mot de passe sur un post-it et ne l'enregistrez pas dans un fichier.
+
+5. Expiration
+Votre mot de passe expire tous les 6 mois. Vous êtes prévenu par e-mail 14 jours avant.
